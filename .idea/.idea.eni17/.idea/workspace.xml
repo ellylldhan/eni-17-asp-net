@@ -14,85 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e4ac7c-ed7b-4d60-9167-d04af15b78ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ENI-17/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2-linq.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2-linq/sql/jeu_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ENI-17.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/Debug/net5.0/m2d3-heritage.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/Debug/net5.0/m2d3-heritage.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/Debug/net5.0/m2d3-heritage.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/Debug/net5.0/m2d3-heritage.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/m2d3-heritage.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/m2d3-heritage.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d3-heritage/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m2d3-heritage/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/m2d4-generiques.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/m2d4-generiques.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d4-generiques/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m2d4-generiques/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/Debug/net5.0/m2d5-collections.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/Debug/net5.0/m2d5-collections.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/m2d5-collections.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/m2d5-collections.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d5-collections/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m2d5-collections/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/m2d6-extensions.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/m2d6-extensions.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d6-extensions/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m2d6-extensions/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/m2d7-function-action-lambda.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/m2d7-function-action-lambda.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m2d7-function-action-lambda/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/Debug/net5.0/m3d1-linq-recuperation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/Debug/net5.0/m3d1-linq-recuperation.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/m3d1-linq-recuperation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/m3d1-linq-recuperation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m3d1-linq-recuperation/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/Debug/net5.0/m3d2-linq-selection.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/Debug/net5.0/m3d2-linq-selection.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/m3d2-linq-selection.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/m3d2-linq-selection.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d2-linq-selection/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m3d2-linq-selection/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/m3d3-linq-ranger.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/m3d3-linq-ranger.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3d3-linq-ranger/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/m3d3-linq-ranger/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/Debug/net5.0/tp1-heritage.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/Debug/net5.0/tp1-heritage.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/tp1-heritage.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/tp1-heritage.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/ref/tp2-linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/ref/tp2-linq.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/tp2-linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/tp2-linq.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/tp2-linq.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/bin/Debug/net5.0/tp2-linq.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/ref/tp2-linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/ref/tp2-linq.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/Debug/net5.0/tp2-linq.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp2-linq/obj/tp2-linq.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-linq/obj/tp2-linq.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eni17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1-heritage/bin/Debug/net5.0/tp1-heritage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/bin/Debug/net5.0/tp1-heritage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1-heritage/bin/Debug/net5.0/tp1-heritage.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/bin/Debug/net5.0/tp1-heritage.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1-heritage/obj/Debug/net5.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/tp1-heritage/obj/Debug/net5.0/apphost" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -123,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.tp2-linq">
+  <component name="RunManager" selected=".NET Project.tp1-heritage">
     <configuration name="m2d3-heritage" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -314,6 +240,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618835174046</updated>
       <workItem from="1618835219915" duration="9263000" />
+      <workItem from="1618848070288" duration="1277000" />
     </task>
     <servers />
   </component>
@@ -330,6 +257,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
