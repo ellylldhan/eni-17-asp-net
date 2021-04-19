@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/ref/m2d5-collections.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/bin/Debug/net5.0/m2d5-collections.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/ref/m2d5-collections.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d5-collections/obj/Debug/net5.0/m2d5-collections.genruntimeconfig.cache

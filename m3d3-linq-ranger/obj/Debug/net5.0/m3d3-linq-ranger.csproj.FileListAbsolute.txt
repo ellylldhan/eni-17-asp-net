@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/ref/m3d3-linq-ranger.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/bin/Debug/net5.0/m3d3-linq-ranger.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/ref/m3d3-linq-ranger.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m3d3-linq-ranger/obj/Debug/net5.0/m3d3-linq-ranger.genruntimeconfig.cache

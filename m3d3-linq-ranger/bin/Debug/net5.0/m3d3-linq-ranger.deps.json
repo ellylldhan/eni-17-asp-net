@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "m3d3-linq-ranger/1.0.0": {
+        "runtime": {
+          "m3d3-linq-ranger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m3d3-linq-ranger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

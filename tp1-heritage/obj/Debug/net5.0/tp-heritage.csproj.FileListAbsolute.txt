@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/ref/tp-heritage.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/bin/Debug/net5.0/tp-heritage.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/ref/tp-heritage.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/tp-heritage/obj/Debug/net5.0/tp-heritage.genruntimeconfig.cache

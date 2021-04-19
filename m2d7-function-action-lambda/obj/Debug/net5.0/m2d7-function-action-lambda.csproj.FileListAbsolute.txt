@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/ref/m2d7-function-action-lambda.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/bin/Debug/net5.0/m2d7-function-action-lambda.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/ref/m2d7-function-action-lambda.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d7-function-action-lambda/obj/Debug/net5.0/m2d7-function-action-lambda.genruntimeconfig.cache

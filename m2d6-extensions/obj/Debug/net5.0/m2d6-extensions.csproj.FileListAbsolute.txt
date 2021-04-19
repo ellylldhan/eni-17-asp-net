@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/ref/m2d6-extensions.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/bin/Debug/net5.0/m2d6-extensions.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/ref/m2d6-extensions.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d6-extensions/obj/Debug/net5.0/m2d6-extensions.genruntimeconfig.cache

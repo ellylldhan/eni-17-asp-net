@@ -1,0 +1,16 @@
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques.deps.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques.runtimeconfig.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques.runtimeconfig.dev.json
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/ref/m2d4-generiques.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/bin/Debug/net5.0/m2d4-generiques.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.csprojAssemblyReference.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.GeneratedMSBuildEditorConfig.editorconfig
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.AssemblyInfoInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.AssemblyInfo.cs
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.csproj.CoreCompileInputs.cache
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/ref/m2d4-generiques.dll
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.pdb
+/media/reno/Toshiba/DEV/projects/RiderProjects/Demos/m2d4-generiques/obj/Debug/net5.0/m2d4-generiques.genruntimeconfig.cache
