@@ -4,7 +4,7 @@ requêtes Linq.
 
 ***Durée**: 1 à 2 heures*
 
-**Note**: dernière question à faire
+**Note**: dernière question ~~à faire~~ pas réussi.
 
 ### Output
 
