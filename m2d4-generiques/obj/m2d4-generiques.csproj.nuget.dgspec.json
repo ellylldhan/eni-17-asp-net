@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d4-generiques/m2d4-generiques.csproj": {}
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d4-generiques/m2d4-generiques.csproj": {}
   },
   "projects": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d4-generiques/m2d4-generiques.csproj": {
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d4-generiques/m2d4-generiques.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d4-generiques/m2d4-generiques.csproj",
+        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d4-generiques/m2d4-generiques.csproj",
         "projectName": "m2d4-generiques",
-        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d4-generiques/m2d4-generiques.csproj",
+        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d4-generiques/m2d4-generiques.csproj",
         "packagesPath": "/home/reno/.nuget/packages/",
-        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d4-generiques/obj/",
+        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d4-generiques/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/reno/.nuget/NuGet/NuGet.Config"

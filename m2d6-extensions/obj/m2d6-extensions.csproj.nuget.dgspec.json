@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d6-extensions/m2d6-extensions.csproj": {}
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d6-extensions/m2d6-extensions.csproj": {}
   },
   "projects": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d6-extensions/m2d6-extensions.csproj": {
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d6-extensions/m2d6-extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d6-extensions/m2d6-extensions.csproj",
+        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d6-extensions/m2d6-extensions.csproj",
         "projectName": "m2d6-extensions",
-        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d6-extensions/m2d6-extensions.csproj",
+        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d6-extensions/m2d6-extensions.csproj",
         "packagesPath": "/home/reno/.nuget/packages/",
-        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d6-extensions/obj/",
+        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d6-extensions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/reno/.nuget/NuGet/NuGet.Config"

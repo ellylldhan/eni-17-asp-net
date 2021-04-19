@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d2-linq-selection/m3d2-linq-selection.csproj",
+      "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d2-linq-selection/m3d2-linq-selection.csproj",
       "projectName": "m3d2-linq-selection",
-      "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d2-linq-selection/m3d2-linq-selection.csproj",
+      "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d2-linq-selection/m3d2-linq-selection.csproj",
       "packagesPath": "/home/reno/.nuget/packages/",
-      "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d2-linq-selection/obj/",
+      "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d2-linq-selection/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/reno/.nuget/NuGet/NuGet.Config"

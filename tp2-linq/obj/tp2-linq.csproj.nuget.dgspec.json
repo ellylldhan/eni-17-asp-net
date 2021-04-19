@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/tp2-linq/tp2-linq.csproj": {}
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/tp2-linq/tp2-linq.csproj": {}
   },
   "projects": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/tp2-linq/tp2-linq.csproj": {
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/tp2-linq/tp2-linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/tp2-linq/tp2-linq.csproj",
+        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/tp2-linq/tp2-linq.csproj",
         "projectName": "tp2-linq",
-        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/tp2-linq/tp2-linq.csproj",
+        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/tp2-linq/tp2-linq.csproj",
         "packagesPath": "/home/reno/.nuget/packages/",
-        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/tp2-linq/obj/",
+        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/tp2-linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/reno/.nuget/NuGet/NuGet.Config"

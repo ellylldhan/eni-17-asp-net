@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d3-heritage/m2d3-heritage.csproj",
+      "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d3-heritage/m2d3-heritage.csproj",
       "projectName": "m2d3-heritage",
-      "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d3-heritage/m2d3-heritage.csproj",
+      "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d3-heritage/m2d3-heritage.csproj",
       "packagesPath": "/home/reno/.nuget/packages/",
-      "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d3-heritage/obj/",
+      "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d3-heritage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/reno/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj": {}
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj": {}
   },
   "projects": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj": {
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj",
+        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj",
         "projectName": "m3d1-linq-recuperation",
-        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj",
+        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d1-linq-recuperation/m3d1-linq-recuperation.csproj",
         "packagesPath": "/home/reno/.nuget/packages/",
-        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m3d1-linq-recuperation/obj/",
+        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m3d1-linq-recuperation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/reno/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d5-collections/m2d5-collections.csproj": {}
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d5-collections/m2d5-collections.csproj": {}
   },
   "projects": {
-    "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d5-collections/m2d5-collections.csproj": {
+    "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d5-collections/m2d5-collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d5-collections/m2d5-collections.csproj",
+        "projectUniqueName": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d5-collections/m2d5-collections.csproj",
         "projectName": "m2d5-collections",
-        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d5-collections/m2d5-collections.csproj",
+        "projectPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d5-collections/m2d5-collections.csproj",
         "packagesPath": "/home/reno/.nuget/packages/",
-        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/ENI-17/m2d5-collections/obj/",
+        "outputPath": "/media/reno/Toshiba/DEV/projects/RiderProjects/eni17/m2d5-collections/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/reno/.nuget/NuGet/NuGet.Config"
