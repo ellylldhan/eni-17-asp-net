@@ -48,7 +48,7 @@ namespace tp2_linq
 
             InitialiserDatas();
 
-            // Afficher la liste des prénoms des auteurs dont le nom commence par "G"
+            // Q1 : Afficher la liste des prénoms des auteurs dont le nom commence par "G"
             Console.WriteLine("---------------------------------------------------------");
 
             var auteurCommenceParG = ListeAuteurs.Where(a => a.Nom.StartsWith("G")); //.Select(a=> a.Prenom);
@@ -59,7 +59,7 @@ namespace tp2_linq
 
             Console.WriteLine();
 
-            // Afficher l’auteur ayant écrit le plus de livres
+            // Q2 : Afficher l’auteur ayant écrit le plus de livres
             Console.WriteLine("---------------------------------------------------------");
 
             var auteurPlusProlifique = ListeLivres
@@ -70,7 +70,7 @@ namespace tp2_linq
             Console.WriteLine(
                 $"Auteur le plus prolifique : {auteurPlusProlifique.Prenom} {auteurPlusProlifique.Nom}\n");
 
-            // Afficher le nombre moyen de pages par livre par auteur
+            // Q3 : Afficher le nombre moyen de pages par livre par auteur
             Console.WriteLine("---------------------------------------------------------");
 
             var livresParAuteur = ListeLivres.GroupBy(l => l.Auteur);
@@ -83,21 +83,21 @@ namespace tp2_linq
 
             Console.WriteLine();
 
-            // Afficher le titre du livre avec le plus de pages
+            // Q4 : Afficher le titre du livre avec le plus de pages
             Console.WriteLine("---------------------------------------------------------");
 
             var livreMaxPages = ListeLivres.OrderByDescending(l => l.NbPages).First();
             Console.WriteLine($"Livre avec le plus de pages : " +
                               $"\"{livreMaxPages.Titre}\" ({livreMaxPages.NbPages} pages)\n");
 
-            // Afficher combien ont gagné les auteurs en moyenne (moyenne des factures)
+            // Q5 : Afficher combien ont gagné les auteurs en moyenne (moyenne des factures)
             Console.WriteLine("---------------------------------------------------------");
 
             var moyenne = ListeAuteurs.Average(a => a.Factures.Sum(f => f.Montant));
             Console.WriteLine($"Les auteurs ont gagné en moyenne {moyenne} brouzoufs");
             Console.WriteLine();
 
-            // Afficher les auteurs et la liste de leurs livres
+            // Q6 : Afficher les auteurs et la liste de leurs livres
             Console.WriteLine("---------------------------------------------------------");
             Console.WriteLine("Bibliographie de chaque auteur :".ToUpper());
 
@@ -117,7 +117,7 @@ namespace tp2_linq
 
             Console.WriteLine();
 
-            // Afficher les titres de tous les livres triés par ordre alphabétique
+            // Q7 : Afficher les titres de tous les livres triés par ordre alphabétique
             Console.WriteLine("---------------------------------------------------------");
 
             var livresTriAlpha = ListeLivres.OrderBy(l => l.Titre).ThenBy(l => l.Synopsis);
@@ -127,7 +127,7 @@ namespace tp2_linq
                 Console.WriteLine($"\t\"{livre.Titre} - {livre.Synopsis}\"");
             }
 
-            // Afficher la liste des livres dont le nombre de pages est supérieur à la moyenne
+            // Q8 : Afficher la liste des livres dont le nombre de pages est supérieur à la moyenne
             Console.WriteLine("---------------------------------------------------------");
             var moyennePage = ListeLivres.Average(l => l.NbPages);
             var livresSupMoyenne = ListeLivres
@@ -144,7 +144,7 @@ namespace tp2_linq
 
             Console.WriteLine();
 
-            // Afficher l'auteur ayant écrit le moins de livres
+            // Q9 : Afficher l'auteur ayant écrit le moins de livres
             Console.WriteLine("---------------------------------------------------------");
 
             /* MARCHE PAS

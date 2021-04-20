@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3d3-linq-ranger", "m3d3-li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp2-linq", "tp2-linq\tp2-linq.csproj", "{47072C40-3BD0-464E-9EAE-86F0564EFB71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp2-linq-correction", "tp2-linq-correction\tp2-linq-correction.csproj", "{B21A833F-B997-4F92-80F5-3E82EE859247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{47072C40-3BD0-464E-9EAE-86F0564EFB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47072C40-3BD0-464E-9EAE-86F0564EFB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47072C40-3BD0-464E-9EAE-86F0564EFB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21A833F-B997-4F92-80F5-3E82EE859247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21A833F-B997-4F92-80F5-3E82EE859247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21A833F-B997-4F92-80F5-3E82EE859247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21A833F-B997-4F92-80F5-3E82EE859247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
